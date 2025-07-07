@@ -39,3 +39,7 @@
 接下来是一些技术方案：
 - 请使用vite、vue3、elementplus、fastapi作为技术栈，数据库先试用json文件作为临时方案。
 - 有一个组件页面，可以配置openai接口数据。我需要设置的参数仅涉及base_url、api_key、model_name、max_tokens。
+
+---
+> 使用的是 cursor/claude 4 opus max，项目使用的模型doubao seed 1.6 thinking
+> 项目截图参考这里 https://mp.weixin.qq.com/s/H6bpeW6VRHUmrY5Bl_PvHA
